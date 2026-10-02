@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://kurniasejahtera.id/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://kurniasejahtera.id/assets/images/proyek-amartya-hotel-jogja.jpg</image:loc>
+      <image:title>Proyek Eksterior dan Fasad Hotel The Amartya Yogyakarta oleh Kurnia Sejahtera</image:title>
+      <image:caption>Dokumentasi pengerjaan komersial perhotelan oleh General Contractor Kurnia Sejahtera</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kurniasejahtera.id/#klien-kami</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kurniasejahtera.id/#layanan</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kurniasejahtera.id/#portofolio</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kurniasejahtera.id/#alur-kerja</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kurniasejahtera.id/#faq</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
